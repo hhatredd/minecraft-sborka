@@ -1,0 +1,17 @@
+
+["Turn Off/On Indicators"]
+	#Render text particles, in order to show the damage an entity receives
+	RenderDamageIndicator = true
+	#Render text particles, in order to show that the entity is being 'Poisoned'
+	RenderPoisonIndicator = true
+	#Render text particles, in order to show that the entity is being 'Withered'
+	RenderWitherIndicator = true
+	#Render text particles, in order to show that the entity has received a combo, that is, several successive attacks in a certain time
+	RenderComboIndicator = true
+	#Render text particles, in order to show that the entity has received a critical hit
+	RenderCriticIndicator = true
+	#Render text particles, in order to demonstrate that the entity has received a puncture
+	RenderIndicatePunctures = true
+	#Render text particles, in order to demonstrate that the entity is burning or receiving fire-type damage
+	RenderIndicateBurning = true
+

@@ -1,0 +1,28 @@
+
+#Configuraciones de Zoom del Mod CinematicZoom
+[zoom]
+	#Factor de zoom inicial cuando se activa el modo cinematográfico.
+	#Range: 0.1 ~ 0.9
+	initialZoomFactor = 0.4
+	#Factor de zoom mínimo (zoom mas grande) que se puede alcanzar.
+	#Range: 0.05 ~ 0.5
+	minZoomFactor = 0.1
+	#Factor de zoom máximo (zoom mas pequeño) que se puede alcanzar.
+	#Range: 0.5 ~ 2.0
+	maxZoomFactor = 1.5
+	#Cantidad en que el factor de zoom cambia por cada 'paso' de la rueda del mouse.
+	#Range: 0.001 ~ 0.2
+	zoomStep = 0.05
+	#Factor de zoom predeterminado para la vista en primera persona.
+	#Range: 0.1 ~ 0.9
+	firstPersonDefaultZoom = 0.2
+	#Factor de zoom predeterminado para las vistas en tercera persona (frontal y trasera).
+	#Range: 0.1 ~ 0.9
+	thirdPersonDefaultZoom = 0.65
+	#Velocidad de suavizado del zoom al usar la rueda del mouse (0.001 = muy lento, 1.0 = instantáneo).
+	#Range: 0.001 ~ 1.0
+	smoothZoomSpeed = 0.4
+	#Duración de la animación de entrada y salida del zoom y las barras en milisegundos.
+	#Range: 100 ~ 2000
+	animationDurationMs = 500
+

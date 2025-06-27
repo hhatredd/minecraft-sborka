@@ -1,0 +1,186 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				pillager = true
+				sheep = true
+				glow_squid = true
+				squid = true
+				cod = true
+				tropical_fish = true
+				pufferfish = true
+				bat = true
+				zombie = true
+				slime = true
+				skeleton = true
+				spider = true
+				item = true
+				ocelot = true
+				chicken = true
+				horse = true
+				pig = true
+				creeper = true
+				wolf = true
+				villager = true
+				item_frame = true
+				vindicator = true
+				evoker = true
+				tnt_minecart = true
+				glow_item_frame = true
+				painting = true
+				drowned = true
+				witch = true
+				fox = true
+				enderman = true
+				arrow = true
+
+			[light_sources.settings.entities.naturalist]
+				lizard = true
+				dragonfly = true
+				snail = true
+				snake = true
+				butterfly = true
+				bluejay = true
+				sparrow = true
+				robin = true
+				bass = true
+
+			[light_sources.settings.entities.legendarycreatures]
+				bullfrog = true
+				peacock_spider = true
+				wisp = true
+				hound = true
+				scorpion = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				ocean_creeper = true
+				bamboo_creeper = true
+				cave_creeper = true
+				spruce_creeper = true
+
+			[light_sources.settings.entities.quark]
+				forgotten = true
+				stoneling = true
+				toretoise = true
+
+			[light_sources.settings.entities.royalvariations]
+				royal_creeper = true
+				royal_skeleton = true
+				royal_zombie = true
+
+			[light_sources.settings.entities.mowziesmobs]
+				foliaath = true
+
+			[light_sources.settings.entities.gamma_creatures]
+				radioactive_bear = true
+				pangolin = true
+				radioactive_hyena = true
+				dogishi = true
+				skinno = true
+				crasu = true
+				radioactive_owl = true
+				cg_022 = true
+				gc_024 = true
+
+			[light_sources.settings.entities.treasure_fiends]
+				mean_fiend = true
+				treasure_fiend = true
+
+			[light_sources.settings.entities.slimeoverhaul]
+				water_slime = true
+				earth_slime = true
+				air_slime = true
+				flame_slime = true
+
+			[light_sources.settings.entities.born_in_chaos_v1]
+				thornshell_crab = true
+				corpse_fly = true
+				baby_spider = true
+				dread_hound = true
+				zombie_lumberjack = true
+				decaying_zombie = true
+				baby_skeleton = true
+				corpse_fish = true
+				restless_spirit = true
+				door_knight = true
+				decrepit_skeleton = true
+				zombie_bruiser = true
+				fallen_chaos_knight = true
+				siamese_skeletons = true
+				skeleton_thrasher = true
+				phantom_creeper = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+
+			[light_sources.settings.entities.thalassophobia]
+				bathotrap_spawn = true
+				bathotrap_natural_spawn = true
+				crab_spawn = true
+				crab_natural_spawn = true
+				reaverfish = true
+				sea_sludge_spawn = true
+				sea_sludge_natural_spawn = true
+				vertebrat = true
+				sea_sludge = true
+				cnidaria = true
+				megapiranha = true
+				crab = true
+
+			[light_sources.settings.entities.supernatural]
+				mer_emerald = true
+
+			[light_sources.settings.entities.dragnlivestock]
+				o_salmon = true
+				o_cod = true
+				o_cow = true
+				o_sheep = true
+				o_chicken = true
+
+			[light_sources.settings.entities.sonicraft_demons]
+				burning_motobug = true
+				end_sonic = true
+				fatal_error = true
+				eyx = true
+				burning_buzz_bomber = true
+				burning_crabmeat = true
+				starved_eggman = true
+				starved_egg_cooker = true
+				hyudoro = true
+				mazin = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				mauler = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.warriorsofpastepoch]
+				skeleton_musketeer = true
+
+			[light_sources.settings.entities.snowpig]
+				snow_pig = true
+
+			[light_sources.settings.entities.wildlife_plus]
+				walrus = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				snowy_enderman = true
+
+			[light_sources.settings.entities.creepypasta]
+				squidward = true
+				hihijeck = true
+				eyeless_jack = true
+				squidward_suicide = true
+				jeff = true
+				slenderman = true
+
